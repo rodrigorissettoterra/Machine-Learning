@@ -1,4 +1,6 @@
-<strong><span style="font-size: 20px;">PROJETO 01: Classificação: Porco ou Cachorro?</span></strong>
+<strong><span style="font-size: 32px;">PROJETOS DE MACHINE LEARNING</span></strong>
+
+<strong><span style="font-size: 20px;">Projeto 01: Classificação: Porco ou Cachorro?</span></strong>
 <ul>
  	<li>Criando os dados</li>
  	<li>Importando as bibliotecas necessárias</li>
