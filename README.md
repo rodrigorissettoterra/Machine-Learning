@@ -1,15 +1,11 @@
 <h1><strong><span style="font-size: 32px;">PROJETOS DE MACHINE LEARNING</span></strong></h1>
 Índice de projetos:
 <ul>
- 	<li style="list-style-type: none;">
-<ul>
  	<li><a href="#T1"><span style="text-decoration: underline;"><em>Projeto 01: Porco ou cachorro?</em></span></a></li>
  	<li><a href="#T2"><span style="text-decoration: underline;"><em>Projeto 02: Compra ou não compra?</em></span></a></li>
  	<li><a href="#T3"><span style="text-decoration: underline;"><em>Projeto 03: Quanto custa?</em></span></a></li>
  	<li><a href="#T4"><span style="text-decoration: underline;">Projeto 04: Vende ou não vende?</span></a></li>
  	<li><a href="#T5"><span style="text-decoration: underline;"><em>Projeto 05: Cliente pode dar um Churn ou não?</em></span></a></li>
-</ul>
-</li>
 </ul>
 
 <hr />
