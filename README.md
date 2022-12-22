@@ -1,6 +1,5 @@
-<strong><span style="font-size: 32px;">PROJETOS DE MACHINE LEARNING</span></strong>
-
-<strong><span style="font-size: 20px;">Projeto 01: Classificação: Porco ou Cachorro?</span></strong>
+<h1><strong><span style="font-size: 32px;">PROJETOS DE MACHINE LEARNING</span></strong></h1>
+<h2><strong><span style="font-size: 20px;">Projeto 01: Porco ou Cachorro?</span></strong></h2>
 <ul>
  	<li>Criando os dados</li>
  	<li>Importando as bibliotecas necessárias</li>
@@ -15,8 +14,7 @@ Para acessar o notebook do projeto 01, <a href="https://github.com/rodrigorisset
 &nbsp;
 
 &nbsp;
-
-<strong><span style="font-size: 20px;">Projeto 02: Compra ou não compra?</span></strong>
+<h2><strong><span style="font-size: 20px;">Projeto 02: Compra ou não compra?</span></strong></h2>
 <ul>
  	<li>Importando as bibliotecas necessárias</li>
  	<li>Importando a base de dados
@@ -35,8 +33,7 @@ Para acessar o notebook do projeto 02, <a href="https://github.com/rodrigorisset
 &nbsp;
 
 &nbsp;
-
-<strong><span style="font-size: 20px;">Projeto 03: Quanto custa?</span></strong>
+<h2><strong><span style="font-size: 20px;">Projeto 03: Quanto custa?</span></strong></h2>
 <ul>
  	<li>Importando as bibliotecas necessárias</li>
  	<li>Importando a base de dados
@@ -66,3 +63,36 @@ Para acessar o notebook do projeto 02, <a href="https://github.com/rodrigorisset
 </li>
 </ul>
 Para acessar o notebook do projeto 03, <a href="https://github.com/rodrigorissettoterra/Machine-Learning/blob/main/Machine_Learning_Quanto_custa%3F.ipynb" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>clique aqui</em></span></a>.
+
+&nbsp;
+
+&nbsp;
+<h2>Projeto 04: Vende ou não vende?</h2>
+<ul>
+ 	<li>Importando as bibliotecas necessárias</li>
+ 	<li>Importando a base de dados
+<ul>
+ 	<li>Verificando a base de dados</li>
+ 	<li>Renomeando as colunas (tradução)</li>
+ 	<li>Substituindo termos por valores</li>
+ 	<li>Criando uma coluna nova</li>
+ 	<li>Convertendo unidade</li>
+ 	<li>Excluindo colunas não utilizadas</li>
+</ul>
+</li>
+ 	<li>Criando as variáveis X e Y
+<ul>
+ 	<li>Separando as variáveis entre treino e teste</li>
+ 	<li>Criando um modelo linear</li>
+ 	<li>Testando o modelo criado</li>
+ 	<li>Criando um modelo de comparação</li>
+</ul>
+</li>
+ 	<li>Criando um modelo</li>
+ 	<li>Criando um modelo que apresente detalhes sobre o algoritmo
+<ul>
+ 	<li>Árvore de decisão para visualizar o modelo</li>
+</ul>
+</li>
+</ul>
+Para acessar o notebook do projeto 04, <a href="https://github.com/rodrigorissettoterra/Machine-Learning/blob/main/Machine_Learning_Vende_ou_n%C3%A3o_vende%3F.ipynb" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>clique aqui</em></span></a>.
