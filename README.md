@@ -11,12 +11,11 @@
 </ul>
 </li>
 </ul>
+
+<hr />
+
 &nbsp;
 <h2><strong><span id="T1" style="font-size: 20px;">Projeto 01: Porco ou Cachorro?</span></strong></h2>
-<ul>
- 	<li style="list-style-type: none;">
-<ul>
- 	<li style="list-style-type: none;">
 <ul>
  	<li>Criando os dados</li>
  	<li>Importando as bibliotecas necessárias</li>
@@ -26,20 +25,12 @@
 </ul>
 </li>
 </ul>
-</li>
-</ul>
-</li>
-</ul>
-Para acessar o notebook do projeto 01, <a href="https://github.com/rodrigorissettoterra/Machine-Learning/blob/main/Classifica%C3%A7%C3%A3o_Porco_ou_Cachorro.ipynb" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>clique aqui</em></span></a>.
+<strong>Para acessar o notebook do projeto 01, <a href="https://github.com/rodrigorissettoterra/Machine-Learning/blob/main/Classifica%C3%A7%C3%A3o_Porco_ou_Cachorro.ipynb" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>clique aqui</em></span></a>.</strong>
 
-&nbsp;
+<hr />
 
 &nbsp;
 <h2><strong><span id="T2" style="font-size: 20px;">Projeto 02: Compra ou não compra?</span></strong></h2>
-<ul>
- 	<li style="list-style-type: none;">
-<ul>
- 	<li style="list-style-type: none;">
 <ul>
  	<li>Importando as bibliotecas necessárias</li>
  	<li>Importando a base de dados
@@ -53,20 +44,12 @@ Para acessar o notebook do projeto 01, <a href="https://github.com/rodrigorisset
  	<li>Criando um modelo</li>
  	<li>Testando o modelo criado</li>
 </ul>
-</li>
-</ul>
-</li>
-</ul>
-Para acessar o notebook do projeto 02, <a href="https://github.com/rodrigorissettoterra/Machine-Learning/blob/main/Classifica%C3%A7%C3%A3o_Site.ipynb" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>clique aqui</em></span></a>.
+<strong>Para acessar o notebook do projeto 02, <a href="https://github.com/rodrigorissettoterra/Machine-Learning/blob/main/Classifica%C3%A7%C3%A3o_Site.ipynb" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>clique aqui</em></span></a>.</strong>
 
-&nbsp;
+<hr />
 
 &nbsp;
 <h2><strong><span id="T3" style="font-size: 20px;">Projeto 03: Quanto custa?</span></strong></h2>
-<ul>
- 	<li style="list-style-type: none;">
-<ul>
- 	<li style="list-style-type: none;">
 <ul>
  	<li>Importando as bibliotecas necessárias</li>
  	<li>Importando a base de dados
@@ -95,20 +78,12 @@ Para acessar o notebook do projeto 02, <a href="https://github.com/rodrigorisset
 </ul>
 </li>
 </ul>
-</li>
-</ul>
-</li>
-</ul>
-Para acessar o notebook do projeto 03, <a href="https://github.com/rodrigorissettoterra/Machine-Learning/blob/main/Quanto_custa%3F.ipynb" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>clique aqui</em></span></a>.
+<strong>Para acessar o notebook do projeto 03, <a href="https://github.com/rodrigorissettoterra/Machine-Learning/blob/main/Quanto_custa%3F.ipynb" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>clique aqui</em></span></a>.</strong>
 
-&nbsp;
+<hr />
 
 &nbsp;
 <h2><span id="T4" style="font-size: 20px;">Projeto 04: Vende ou não vende?</span></h2>
-<ul>
- 	<li style="list-style-type: none;">
-<ul>
- 	<li style="list-style-type: none;">
 <ul>
  	<li style="list-style-type: none;">
 <ul>
@@ -125,10 +100,6 @@ Para acessar o notebook do projeto 03, <a href="https://github.com/rodrigorisset
 </li>
 </ul>
 </li>
-</ul>
-</li>
- 	<li style="list-style-type: none;">
-<ul>
  	<li>Criando as variáveis X e Y
 <ul>
  	<li>Separando as variáveis entre treino e teste</li>
@@ -144,20 +115,12 @@ Para acessar o notebook do projeto 03, <a href="https://github.com/rodrigorisset
 </ul>
 </li>
 </ul>
-</li>
-</ul>
-</li>
-</ul>
-Para acessar o notebook do projeto 04, <a href="https://github.com/rodrigorissettoterra/Machine-Learning/blob/main/Vende_ou_n%C3%A3o_vende%3F.ipynb" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>clique aqui</em></span></a>.
+<strong>Para acessar o notebook do projeto 04, <a href="https://github.com/rodrigorissettoterra/Machine-Learning/blob/main/Vende_ou_n%C3%A3o_vende%3F.ipynb" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>clique aqui</em></span></a>.</strong>
 
-&nbsp;
+<hr />
 
 &nbsp;
 <h2><span id="T5" style="font-size: 20px;">Projeto 05: Cliente pode dar um Churn ou não?</span></h2>
-<ul>
- 	<li style="list-style-type: none;">
-<ul>
- 	<li style="list-style-type: none;">
 <ul>
  	<li>Preparando o ambiente
 <ul>
@@ -229,8 +192,4 @@ Para acessar o notebook do projeto 04, <a href="https://github.com/rodrigorisset
 </li>
  	<li>Qual o melhor modelo?</li>
 </ul>
-</li>
-</ul>
-</li>
-</ul>
-Para acessar o notebook do projeto 05, <a href="https://github.com/rodrigorissettoterra/Machine-Learning/blob/main/Cliente_d%C3%A1_um_churn_ou_n%C3%A3o%3F.ipynb" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>clique aqui</em></span></a>.
+<strong>Para acessar o notebook do projeto 05, <a href="https://github.com/rodrigorissettoterra/Machine-Learning/blob/main/Cliente_d%C3%A1_um_churn_ou_n%C3%A3o%3F.ipynb" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>clique aqui</em></span></a>.</strong>
