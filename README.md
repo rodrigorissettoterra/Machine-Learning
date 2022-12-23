@@ -6,6 +6,7 @@
  	<li><a href="#T3"><span style="text-decoration: underline;"><em>Projeto 03: Quanto custa?</em></span></a></li>
  	<li><a href="#T4"><span style="text-decoration: underline;">Projeto 04: Vende ou não vende?</span></a></li>
  	<li><a href="#T5"><span style="text-decoration: underline;"><em>Projeto 05: Cliente pode dar um Churn ou não?</em></span></a></li>
+ 	<li><a href="#T6"><span style="text-decoration: underline;"><em>Projeto 06: Dados de alta dimensionalidade</em></span></a></li>
 </ul>
 
 <hr />
@@ -189,3 +190,118 @@
  	<li>Qual o melhor modelo?</li>
 </ul>
 <strong>Para acessar o notebook do projeto 05, <a href="https://github.com/rodrigorissettoterra/Machine-Learning/blob/main/Cliente_d%C3%A1_um_churn_ou_n%C3%A3o%3F.ipynb" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>clique aqui</em></span></a>.</strong>
+
+<hr />
+
+&nbsp;
+<h2><strong><span id="T6" style="font-size: 20px;">Projeto 06: Dados de alta dimensionalidade</span></strong></h2>
+Analisando uma base de dados de exames com diagnósticos cancerígenos.
+
+&nbsp;
+<ul>
+ 	<li>1 - Preparando o ambiente
+<ul>
+ 	<li>Importando as bibliotecas necessárias</li>
+ 	<li>Importando a base de dados</li>
+ 	<li>Visualizando a base de dados (5 primeiras linhas)</li>
+ 	<li>Informações sobre a base de dados
+<ul>
+ 	<li>Linhas e colunas</li>
+ 	<li>Dados nulos</li>
+ 	<li>Excluindo a coluna de índice 34</li>
+</ul>
+</li>
+</ul>
+</li>
+ 	<li>2 - Preparando a base dados para a criação do modelo
+<ul>
+ 	<li>Importando as bibliotecas necessárias</li>
+ 	<li>Separando os dados em grupos de treino e de teste</li>
+ 	<li>Criação do modelo
+<ul>
+ 	<li>Acurácia do modelo criado</li>
+ 	<li>Criando um classificador de comparação</li>
+</ul>
+</li>
+</ul>
+</li>
+ 	<li>CONCLUSÃO</li>
+ 	<li>3 - Explorando a base de dados
+<ul>
+ 	<li>Importando as bibliotecas necessárias</li>
+ 	<li>Manipulando a base de dados
+<ul>
+ 	<li>Padronização de alguns dados</li>
+</ul>
+</li>
+ 	<li>Visualizando dados_plot</li>
+ 	<li>Criando uma função para fazer gráficos
+<ul>
+ 	<li>Testando a função criada</li>
+</ul>
+</li>
+ 	<li>Retirando as colunas dos exames 04 e 29 da análise</li>
+ 	<li>Criando uma função classificadora</li>
+</ul>
+</li>
+ 	<li>4 - Dados correlacionados
+<ul>
+ 	<li>Matriz de correlação</li>
+ 	<li>Visualizando as correlações
+<ul>
+ 	<li>Encontrando as variáveis altamente correlacionadas</li>
+</ul>
+</li>
+ 	<li>Medindo a acurácia do novo dataset</li>
+ 	<li>Selecionando as melhores features
+<ul>
+ 	<li>Importando as bibliotecas necessárias</li>
+ 	<li>Criando um modelo com apenas 5 features (k=5)</li>
+ 	<li>Treinando o modelo para a versão 5</li>
+</ul>
+</li>
+</ul>
+</li>
+ 	<li>5 - Matriz de confusão
+<ul>
+ 	<li>Importando as bibliotecas necessárias</li>
+ 	<li>Criando a matriz</li>
+ 	<li>Visualizando a matriz</li>
+</ul>
+</li>
+ 	<li>6 - Recursive feature elimination (RFE)
+<ul>
+ 	<li>Importando as bibliotecas necessárias</li>
+ 	<li>Criando um modelo com RFE</li>
+ 	<li>Visualizando a matriz de confusão</li>
+</ul>
+</li>
+ 	<li>7 - Recursive feature elimination with cross-validation (RFECV)
+<ul>
+ 	<li>Importando as bibliotecas necessárias</li>
+ 	<li>Criando um modelo com RFECV</li>
+ 	<li>Visualizando a matriz confusão</li>
+ 	<li>Features selecionadas</li>
+ 	<li>Visualizando as features</li>
+</ul>
+</li>
+ 	<li>8 - Principal component analysis (PCA)
+<ul>
+ 	<li>Importando as bibliotecas necessárias</li>
+ 	<li>Preparando dados para o modelo</li>
+ 	<li>Visualizando os dados obtidos</li>
+</ul>
+</li>
+ 	<li>9 - T-distributed Stochastic Neighbor Embedding (TSNE)
+<ul>
+ 	<li>Importando as bibliotecas necessárias</li>
+ 	<li>Preparando os dados para o modelo</li>
+ 	<li>Visualizando os dados obtidos</li>
+</ul>
+</li>
+</ul>
+<strong>Para acessar o notebook do projeto 06, <a href="https://github.com/rodrigorissettoterra/Machine-Learning/blob/main/Dados_de_alta_dimensionalidade.ipynb" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>clique aqui</em></span></a>.</strong>
+
+<hr />
+
+&nbsp;
