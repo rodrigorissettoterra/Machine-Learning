@@ -6,5 +6,6 @@
  <li><a href="https://github.com/rodrigorissettoterra/Machine-Learning/blob/main/Quanto_custa%3F.ipynb"><span style="text-decoration: underline;"><em>Projeto 03: Quanto custa?</em></span></a></li>
  <li><a href="https://github.com/rodrigorissettoterra/Machine-Learning/blob/main/Dados_de_alta_dimensionalidade.ipynb"><span style="text-decoration: underline;"><em>Projeto 04: Dados de alta dimensionalidade</em></span></a></li>
  <li><a href="https://github.com/rodrigorissettoterra/Machine-Learning/blob/main/Iris_Dataset.ipynb"><span style="text-decoration: underline;"><em>Projeto 05: Iris Dataset</em></span></a></li>
- <li><a href="https://github.com/rodrigorissettoterra/Machine-Learning/blob/main/California_Housing_Dataset.ipynb"><span style="text-decoration: underline;"><em>Projeto 06: California Housing Dataset</em></span></a></li>
+ <li><a href="https://github.com/rodrigorissettoterra/Machine-Learning/blob/main/Criando_do_zero_um_modelo_de_IA.ipynb"><span style="text-decoration: underline;"><em>Projeto 06: Regressão Linaer com California Housing Dataset</em></span></a></li>
+ <li><a href="https://github.com/rodrigorissettoterra/Machine-Learning/blob/main/California_Housing_Dataset.ipynb"><span style="text-decoration: underline;"><em>Projeto 07: California Housing Dataset</em></span></a></li>
 </ul>
