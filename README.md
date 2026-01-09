@@ -8,4 +8,6 @@
  <li><a href="https://github.com/rodrigorissettoterra/Machine-Learning/blob/main/Iris_Dataset.ipynb"><span style="text-decoration: underline;"><em>Projeto 05: Iris Dataset</em></span></a></li>
  <li><a href="https://github.com/rodrigorissettoterra/Machine-Learning/blob/main/Criando_do_zero_um_modelo_de_IA.ipynb"><span style="text-decoration: underline;"><em>Projeto 06: Regressão Linear com California Housing Dataset</em></span></a></li>
  <li><a href="https://github.com/rodrigorissettoterra/Machine-Learning/blob/main/California_Housing_Dataset.ipynb"><span style="text-decoration: underline;"><em>Projeto 07: California Housing Dataset</em></span></a></li>
+ <li><a href="https://github.com/rodrigorissettoterra/Machine-Learning/blob/main/Boston_Housing_Dataset.ipynb"><span style="text-decoration: underline;"><em>Projeto 08: Boston Housing Dataset</em></span></a></li>
+
 </ul>
